@@ -1,0 +1,2 @@
+# VueSampleContents
+CMS上などで使用するVuejsの簡易的なサンプル
